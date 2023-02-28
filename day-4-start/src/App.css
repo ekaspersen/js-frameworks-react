@@ -1,0 +1,17 @@
+html {
+    background-color: #111;
+    color: #fff;
+    font-size: 16px;
+}
+.App {
+}
+
+.product-listing span:first-child {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.product-listing span:last-child {
+    margin-left: 0.5rem;
+    font-size: 1rem;
+    color: #999;
+}
